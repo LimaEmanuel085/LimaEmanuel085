@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1> 👩🏻‍💻 Emanuel Lima</h1> 
 
-<!--
-**LimaEmanuel085/LimaEmanuel085** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`FullStack Developer`**
 
-Here are some ideas to get you started:
+Me chamo Emanuel, tenho 17 anos de idade, nascido e criado em Fortaleza-CE 📍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente cursando o último ano do curso técnico de desenvolvimento de sistemas integrado ao ensino médio na EEEP Marwin e sou apaixonado por programação desde criança, sempre buscando aprender novas tecnologias e ansioso por projetos desafiadores! Após a conclusão do ensino médio, espero cursar a faculdade de engenharia de software.
+
+##
+### 🤖 Linguagens e Tecnologias
+<div style="display: inline_block">
+  <img width=50 hspace="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img width=50 hspace="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width=50 hspace="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+  <img width=50 hspace="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width=50 hspace="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+  <img width=50 hspace="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img width=50 hspace="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+  <img width=50 hspace="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  </div>
+</div>
+
+### Estatísticas
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+  />
