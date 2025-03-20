@@ -20,7 +20,9 @@ Atualmente cursando o último ano do curso técnico de desenvolvimento de sistem
   </div>
 </div>
 
-### Estatísticas
+<br>
+
+### 📊 Estatísticas
 <img 
       align="left" 
       alt="GitHub Stats" 
@@ -28,7 +30,6 @@ Atualmente cursando o último ano do curso técnico de desenvolvimento de sistem
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
   />
 
-##
 
 <img src="https://raw.githubusercontent.com/LimaEmanuel085/LimaEmanuel085/output/snake.svg" alt="Snake animation" />
 
