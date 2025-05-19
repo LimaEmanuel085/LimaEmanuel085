@@ -34,7 +34,7 @@ Atualmente cursando o último ano do curso técnico de desenvolvimento de sistem
     alt="GitHub Stats" 
     height="160" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LimaEmanuel085&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=LimaEmanuel085&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&token=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" 
 />
 
 
