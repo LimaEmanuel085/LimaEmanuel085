@@ -4,7 +4,7 @@
 
 Me chamo Emanuel, tenho 18 anos de idade, nascido e criado em Fortaleza-CE 📍
 
-Atualmente cursando o último ano do curso técnico de desenvolvimento de sistemas integrado ao ensino médio na EEEP Marwin e sou apaixonado por programação desde criança, sempre buscando aprender novas tecnologias e ansioso por projetos desafiadores! Após a conclusão do ensino médio, espero cursar a faculdade de engenharia de software.
+Atualmente cursando Engenharia de Software na universidade UniGrande e sou apaixonado por programação desde criança, sempre buscando aprender novas tecnologias e ansioso por projetos desafiadores! Trabalhando em soluções inovadoras e tecnológicas para problemas de grandes empresas.
 
 ##
 ### 🤖 Linguagens e Tecnologias
